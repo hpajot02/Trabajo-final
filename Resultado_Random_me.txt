@@ -1,0 +1,6 @@
+Nombre: Alvin Rogers
+Email: alvin.rogers@example.com
+Nacimiento: 05/04/1980
+Dirección: 6120 Ash Drive
+Número de Teléfono: (586) 999-5360
+Password: virginia
